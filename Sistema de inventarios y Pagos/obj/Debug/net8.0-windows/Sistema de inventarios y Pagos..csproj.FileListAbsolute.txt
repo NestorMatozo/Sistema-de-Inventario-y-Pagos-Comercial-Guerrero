@@ -1,0 +1,17 @@
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\bin\Debug\net8.0-windows\Sistema de inventarios y Pagos..exe
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\bin\Debug\net8.0-windows\Sistema de inventarios y Pagos..deps.json
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\bin\Debug\net8.0-windows\Sistema de inventarios y Pagos..runtimeconfig.json
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\bin\Debug\net8.0-windows\Sistema de inventarios y Pagos..dll
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\bin\Debug\net8.0-windows\Sistema de inventarios y Pagos..pdb
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\obj\Debug\net8.0-windows\Sistema_de_inventarios_y_Pagos_.Form1.resources
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\obj\Debug\net8.0-windows\Sistema de inventarios y Pagos..csproj.GenerateResource.cache
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\obj\Debug\net8.0-windows\Sistema de inventarios y Pagos..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\obj\Debug\net8.0-windows\Sistema de inventarios y Pagos..AssemblyInfoInputs.cache
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\obj\Debug\net8.0-windows\Sistema de inventarios y Pagos..AssemblyInfo.cs
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\obj\Debug\net8.0-windows\Sistema de inventarios y Pagos..csproj.CoreCompileInputs.cache
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\obj\Debug\net8.0-windows\Sistema de inventarios y Pagos..dll
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\obj\Debug\net8.0-windows\refint\Sistema de inventarios y Pagos..dll
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\obj\Debug\net8.0-windows\Sistema de inventarios y Pagos..pdb
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\obj\Debug\net8.0-windows\Sistema de inventarios y Pagos..genruntimeconfig.cache
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\obj\Debug\net8.0-windows\ref\Sistema de inventarios y Pagos..dll
+C:\Users\9029\source\repos\Sistema de inventarios y Pagos\Sistema de inventarios y Pagos\obj\Debug\net8.0-windows\Sistema_de_inventarios_y_Pagos_.Properties.Resources.resources
